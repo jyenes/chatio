@@ -1,0 +1,19 @@
+{
+  "name": "chatio",
+  "version": "1.0.0",
+  "description": "a simple chat in nodejs with realtime communication using socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyenes/chatio.git"
+  },
+  "author": "jyenes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jyenes/chatio/issues"
+  },
+  "homepage": "https://github.com/jyenes/chatio#readme"
+}
